@@ -50,3 +50,16 @@ Kemudian atur navigasi nya seperti ini
 Tampilan website nya seperti ini
 
 ![ss 2](img/ss6-2.PNG)
+
+### Membuat Hero Panel
+Membuat hero panel pada `<section id="hero">`. Seperti berikut
+
+![ss 1](img/ss9-1.PNG)
+
+Kemudian tambahkan deklarasi CSS berikut
+
+![ss 1](img/ss9-2.PNG)
+
+Tampilan website nya seperti ini
+
+![ss 2](img/ss9-3.PNG)
