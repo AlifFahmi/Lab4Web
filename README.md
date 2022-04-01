@@ -80,3 +80,7 @@ Tambahkan deklarasi CSS berikut
 Deklarasikan CSS footer juga
 
 ![ss 1](img/ss10-4.PNG)
+
+Maka tampilan website nya seperti ini
+
+![ss 2](img/ss10-5.PNG)
