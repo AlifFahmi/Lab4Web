@@ -63,3 +63,20 @@ Kemudian tambahkan deklarasi CSS berikut
 Tampilan website nya seperti ini
 
 ![ss 2](img/ss9-3.PNG)
+
+### Mengatur Layout Main dan Sidebar
+Kemudian selanjutnya menambahkan element lain dalam sidebar, dengan kodingan berikut
+
+![ss 1](img/ss10-1.PNG)
+
+Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
+
+![ss 1](img/ss10-2.PNG)
+
+Tambahkan deklarasi CSS berikut
+
+![ss 1](img/ss10-3.PNG)
+
+Deklarasikan CSS footer juga
+
+![ss 1](img/ss10-4.PNG)
