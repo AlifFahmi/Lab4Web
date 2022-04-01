@@ -41,3 +41,12 @@ Deklrasikan dengan CSS berikut
 Tampilan website nya seperti ini
 
 ![ss 2](img/ss5-2.PNG)
+
+### Membuat Navigasi
+Kemudian atur navigasi nya seperti ini
+
+![ss 1](img/ss6-1.PNG)
+
+Tampilan website nya seperti ini
+
+![ss 2](img/ss6-2.PNG)
