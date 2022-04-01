@@ -84,3 +84,16 @@ Deklarasikan CSS footer juga
 Maka tampilan website nya seperti ini
 
 ![ss 2](img/ss10-5.PNG)
+
+### Menambahkan Elemen pada Main Content
+Menambahkan elemen pada main content, kodingannya seperti ini
+
+![ss 1](img/ss11-1.PNG)
+
+Tambahkan deklarasi CSS berikut
+
+![ss 1](img/ss11-3.PNG)
+
+Maka tampilan website nya seperti ini
+
+![ss 2](img/ss11-2.PNG)
