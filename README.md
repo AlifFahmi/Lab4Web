@@ -23,3 +23,8 @@ Tambahkan elemen div4, kemudian atur properti CSS nya seperti berikut
 Tampilan website nya seperti ini
 
 ![ss 2](img/ss3-2.PNG)
+
+## Belajar Membuat Layout Sederhana
+Kita akan belajar membuat tampilan website seperti ini
+
+![ss 1](img/ss1.PNG)
