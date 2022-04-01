@@ -110,3 +110,5 @@ Tambahkan deklarasi CSS berikut
 Maka tampilan website nya seperti ini
 
 ![ss 2](img/ss12-2.PNG)
+
+#### Selesai Maka tampilan website akan seperti gambar diawal yang kita inginkan
