@@ -13,3 +13,13 @@ Kemudian tambahkan deklarasi CSS pada head untuk membuat float element, seperti 
 Tampilan website nya seperti ini
 
 ![ss 2](img/ss2-2.PNG)
+
+### Mengatur Clearfix Element
+Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.
+Tambahkan elemen div4, kemudian atur properti CSS nya seperti berikut
+
+![ss 1](img/ss3-1.PNG)
+
+Tampilan website nya seperti ini
+
+![ss 2](img/ss3-2.PNG)
