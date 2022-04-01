@@ -28,3 +28,16 @@ Tampilan website nya seperti ini
 Kita akan belajar membuat tampilan website seperti ini
 
 ![ss 1](img/ss1.PNG)
+
+### Membuat layout sederhana
+Pertama kita membuat file html seperti biasa, kemudain deklarasikan dengan CSS, untuk kodingannya seperti berikut
+
+![ss 1](img/ss4-1.PNG)
+
+Deklrasikan dengan CSS berikut
+
+![ss 1](img/ss5-1.PNG)
+
+Tampilan website nya seperti ini
+
+![ss 2](img/ss5-2.PNG)
