@@ -97,3 +97,16 @@ Tambahkan deklarasi CSS berikut
 Maka tampilan website nya seperti ini
 
 ![ss 2](img/ss11-2.PNG)
+
+### Menambahkan Content Artikel
+Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
+
+![ss 1](img/ss12-1.PNG)
+
+Tambahkan deklarasi CSS berikut
+
+![ss 1](img/ss12-3.PNG)
+
+Maka tampilan website nya seperti ini
+
+![ss 2](img/ss12-2.PNG)
