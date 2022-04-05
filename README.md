@@ -112,3 +112,31 @@ Maka tampilan website nya seperti ini
 ![ss 2](img/ss12-2.PNG)
 
 #### Selesai Maka tampilan website akan seperti gambar diawal yang kita inginkan
+
+# Pertanyaan dan Tugas
+
+## 1. Tambahkan Layout untuk menu About yang berisi deskripsi, portfolio, dll
+Membuat file baru dengan nama `about.html` seperti contoh berikut
+
+![ss 1](img/ss13-1.PNG)
+
+Tambahkan deklarasi CSS berikut
+
+![ss 1](img/ss13-2.PNG)
+
+Maka tampilan website nya seperti ini
+
+![ss 2](img/ss13-3.PNG)
+
+## Tambahkan layout untuk menu Contact yang berisi form isian: nama, email, message, dll
+Membuat file baru dengan nama `kontak.html` seperti contoh berikut
+
+![ss 1](img/ss14-1.PNG)
+
+Tambahkan deklarasi CSS berikut
+
+![ss 1](img/ss14-2.PNG)
+
+Maka tampilan website nya seperti ini
+
+![ss 2](img/ss14-3.PNG)
